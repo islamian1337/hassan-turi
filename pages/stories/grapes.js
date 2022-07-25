@@ -11,7 +11,7 @@ const GrapesOfWrath = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
-      <h1 class="font-medium leading-tight text-5xl mt-0 mb-2 text-blue-600 text-center mt-5 mb-10">
+      <h1 className="font-medium leading-tight text-5xl mt-0 mb-2 text-blue-600 text-center mt-5 mb-10">
         Grapes Of Wrath
       </h1>
       <div className="container">
