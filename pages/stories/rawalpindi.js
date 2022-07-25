@@ -151,7 +151,7 @@ const RawalpindiUnderSeige = () => {
           src="/images/Rawalpindi Under Seige/prot3.jpg"
         />
         <p className="text italic text-center mb-10 m-5">
-          The protestors vowed that if the construction doesn't stop they will
+          The protestors vowed that if the construction doesn&apos;t stop they will
           organise a march to Islamabad.
         </p>
       </div>

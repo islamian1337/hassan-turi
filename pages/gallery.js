@@ -20,7 +20,7 @@ const Gallery = () => {
         <div className="grid-cols-2 space-y-2 bg-gray-100 lg:space-y-0 lg:grid lg:gap-3 lg:grid-rows-auto">
           {imagesArray.map((url) => {
             return (
-              <div className="w-full rounded">
+              <div className="w-full rounded" key={url.id}>
                 <a href={url.imageURL}>
                   <img
                     src={url.imageURL}
